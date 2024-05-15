@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanbadhwar&show_icons=true&locale=en" alt="karanbadhwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanbadhwar&" alt="karanbadhwar" /></p>
+
+----
+![Profile views](https://komarev.com/ghpvc/?username=karanbadhwar&label=Profile%20views&color=0e75b6&style=flat)
